@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-$ git clone https://github.com/tryanotherloginname/dotfiles.git ~/dotfiles
+$ git clone https://github.com/rednez/dotfiles.git ~/dotfiles
 $ cd ~/dotfiles
 $ source setup.sh
 ```
