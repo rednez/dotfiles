@@ -1,4 +1,4 @@
-# .dotfiles
+# Config files for customizing of macOS bash
 
 ## Installation
 
