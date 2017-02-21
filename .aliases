@@ -27,3 +27,4 @@ alias path='echo -e ${PATH//:/\\n}'
 # Add console aliases
 alias firefox='open -a firefox'
 alias subl='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
+alias ll='ls -l'
